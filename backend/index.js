@@ -5,7 +5,7 @@ import { getUser, createUser, deleteUser } from "./config/routes.js";
 
 const app = express();
 
-mongoose.connect("mongodb+srv://nevosangkane:nevosangkane123@cluster0.awihbqj.mongodb.net/User?retryWrites=true&w=majority", {
+mongoose.connect("Edit this", {
     useUnifiedTopology: true
 });
 
